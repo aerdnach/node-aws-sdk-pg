@@ -1,0 +1,22 @@
+{
+  "name": "aws-sdk-pg",
+  "version": "1.0.0",
+  "description": "Playground for aws sdk for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerdnach/node-aws-sdk-pg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aerdnach/node-aws-sdk-pg/issues"
+  },
+  "homepage": "https://github.com/aerdnach/node-aws-sdk-pg#readme",
+  "dependencies": {
+    "aws-sdk": "^2.992.0"
+  }
+}
